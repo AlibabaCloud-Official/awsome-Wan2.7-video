@@ -59,6 +59,3 @@ This demo highlights the model's capacity for semantic video modification and ar
 > <p align="center">📺 <b>[Click here to view the Demo 2 video file]</b></p>
 
 ---
-## 🛠️ Getting Started
-
-*(Stay tuned for environment setup and API integration guides)*
